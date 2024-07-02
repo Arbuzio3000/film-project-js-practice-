@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/eslint.configm.js
 
 # testing
 /coverage
